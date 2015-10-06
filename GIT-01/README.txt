@@ -5,6 +5,6 @@ Quizz 2 : 9/10
 Quizz 3 : 8/10
 
 Activité 1 : 10/10
-Activité 2 : en cours de correction
+Activité 2 : 9/10
 
 Temps écoulé : 3H 36 min
