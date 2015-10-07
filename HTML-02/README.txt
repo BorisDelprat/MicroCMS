@@ -1,6 +1,6 @@
 Page 47
 
-Temps passé : 3h30 min
+Temps passé : 4h
 
 Quiz 1:
 1/ h1, .fuit, #header
@@ -47,3 +47,17 @@ Le bloc 2 conserve le float:right et se place à la suite du conteneur maintenant
 6/ Le bloc droit a la propriété clear:right ou clear:both.
 
 Quiz correction : OK
+
+__________________________________________________________________________________
+
+Quiz 3 :
+1/ border (meme transparente)
+2/ min-height permet l'étirement, sinon le contenu dépassera
+3/ en haut à droite
+4/ en bas du navigateur de manière fixe, sur toute la largeur
+5/ display:inline-block						(pas inline, pas block)
+6/ display:inline-block
+
+Quiz correction :
+
+6/ diplay: table-cell et display: inline-block (demandé sous CSS2)
