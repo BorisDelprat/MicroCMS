@@ -24,3 +24,12 @@ Quiz 1:
 <label for="kiwi"> Kiwi : <label>
 <input type="text" id="kiwi" />
 </form>
+
+Correction :
+8/
+<form id="contact" action="destination.php">
+<p> Formulaire
+<label for="kiwi"> Kiwi : <label>
+<input type="text" id="kiwi" />
+</p>
+</form>
