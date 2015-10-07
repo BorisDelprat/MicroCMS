@@ -1,6 +1,6 @@
 Page 47
 
-Temps passé : 1h20 min
+Temps passé : 3h30 min
 
 Quiz 1:
 1/ h1, .fuit, #header
@@ -31,5 +31,19 @@ Correction :
 <p> Formulaire
 <label for="kiwi"> Kiwi : <label>
 <input type="text" id="kiwi" />
-</p>
+</p>                                                                 <-----
 </form>
+
+
+__________________________________________________________________________________
+
+Quiz 2 :
+1 / Rien, ce sont 2 blocs dans le flux
+2/ Le bloc 1 a la propriété float:left
+3/ les 2 blocs sont en float:left, sortant du flux et du conteneur
+4/ les 2 blocs sont en float:right, le 1 étant placé avant il sera le plus à droite.
+5/ Le bloc 1 n'a plus de float, il remplit le conteneur.
+Le bloc 2 conserve le float:right et se place à la suite du conteneur maintenant plein.
+6/ Le bloc droit a la propriété clear:right ou clear:both.
+
+Quiz correction : OK
