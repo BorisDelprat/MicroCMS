@@ -1,6 +1,6 @@
 Page 47
 
-Temps passé : 7h30min
+Temps passé : 8h
 
 Quiz 1:
 1/ h1, .fuit, #header
