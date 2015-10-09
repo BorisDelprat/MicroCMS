@@ -12,4 +12,4 @@ Quiz 3 : 8/10
 Activité 3 : 4/6
 
 Quiz 4 : 9/10
-Activité 4 : en notation
+Activité 4 : 4/4
