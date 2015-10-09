@@ -1,6 +1,6 @@
 Début du cours HTML-05
 
-Temps passé : 3h 10 min
+Temps passé : 5h 30 min
 
 Quiz 1 : 10/10
 Activité 1 : 10/10
@@ -12,4 +12,4 @@ Quiz 3 : 8/10
 Activité 3 : 4/6
 
 Quiz 4 : 9/10
-Activité 4 : en cours
+Activité 4 : en notation
