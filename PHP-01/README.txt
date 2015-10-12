@@ -1,7 +1,7 @@
 Debut du cours PHP-01
 
 
-Temps passé : 8h20
+Temps passé : 11h40
 
 
 Quiz 1 : 10/10
@@ -12,7 +12,7 @@ Quiz 3 : 10/10
 
 Quiz 4 : 10/10
 
-Activité : en cours de correction
+Activité minichat : en cours de correction
 
 
 Exp régulière pour les n° de téléphone FR:
