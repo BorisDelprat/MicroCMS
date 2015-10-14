@@ -12,7 +12,10 @@ Quiz 3 : 10/10
 
 Quiz 4 : 10/10
 
-Activité minichat : en cours de correction
+Activité minichat : 9/10
+
+
+Certificat obtenu
 
 
 Exp régulière pour les n° de téléphone FR:
