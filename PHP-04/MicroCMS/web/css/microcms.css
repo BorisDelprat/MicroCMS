@@ -1,5 +1,5 @@
-body {
-    padding-top: 50px;
+body { 
+    padding-top: 40px; 
 }
 
 .footer {
@@ -10,4 +10,14 @@ body {
 
 .articleTitle:hover, .articleTitle:focus {
     text-decoration: none;
+}
+
+.adminTable {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#errorPanel {
+    padding-top: 30px;
+    padding-bottom: 10px;
 }
